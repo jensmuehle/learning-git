@@ -5,4 +5,8 @@
 * `git commit -m "documentation text" - commits the changes from the staging area
 * `git diff` - compare the changes of your last added file to the file in your repository
 * `git diff --staged` - compare the changes of the staged file to the file in your repository
-* `git log" - shows reverse chronological list of commits
+* `git log` - shows reverse chronological list of commits
+
+* `git remote add origin https://github.com/jensmuehle/learning-git.git` 
+* `git remote -v` - check status of remote repositories
+
