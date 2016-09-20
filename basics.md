@@ -10,10 +10,11 @@
 * `git remote add origin https://github.com/jensmuehle/learning-git.git` 
 * `git remote -v` - check status of remote repositories
 * `git push -u origin master` - push local file to remote repository
-<<<<<<< HEAD
-* `git pull origin master` - pull any changes from remote repository to local repository 
-=======
-* `git pull <remote> <branch> - get changes from remote repository into local repository
 
-forking a repository: Create a complete copy of an existing Github repository to enable collaboration or stealing
->>>>>>> 0b532dcab2332f32419b0fa299dd888437e22f16
+* `Forking a repository` - (on github) create a complete copy of an existing Github repository to enable collaboration (or stealing)
+* `git clone https://github.com/jensmuehle/learning-git-1.git` - (in a new directory) clone the remote repository (which is a fork you made from another repository)
+* `git pull origin master` - pull any changes from remote repository to local repository 
+* `git pull <remote> <branch> - get changes from remote repository into local repository
+~                                                                                                                                                                                    
+~                                                                                                                                                                                    
+~                       
